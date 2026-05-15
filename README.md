@@ -1,4 +1,4 @@
-# Sunny Cloudy SoCal ⛅
+# Sunny Cloudy SoCal ⛅ 
 
 Hi! Welcome to **Sunny Cloudy SoCal**, a data visualization project designed to answer one question: **Is SoCal actually sunny?**
 
